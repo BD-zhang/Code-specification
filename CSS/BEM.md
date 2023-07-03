@@ -38,3 +38,6 @@ type-block__element_modifier
   <span class="page__span_default page__span_active">这是span标签</span>
 </div>
 ```
+### 参考文档
+- [腾讯规范](https://github.com/Tencent/tmt-workflow/wiki/%E2%92%9B-%5B%E8%A7%84%E8%8C%83%5D--CSS-BEM-%E4%B9%A6%E5%86%99%E8%A7%84%E8%8C%83)
+- [BEM命名法](https://mp.weixin.qq.com/s/BWWuI_O73kGz0qzYxZzrOg)
